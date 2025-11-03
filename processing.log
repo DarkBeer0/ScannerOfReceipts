@@ -1,0 +1,186 @@
+2025-11-03 10:31:19,110 - INFO - Обработка файла: 1.jpg
+2025-11-03 10:31:23,291 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:31:23,304 - INFO - ✅ Успешно извлечён JSON для 1.jpg
+2025-11-03 10:31:23,304 - INFO - Обработка файла: 3.jpg
+2025-11-03 10:31:25,597 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:31:25,599 - INFO - ✅ Успешно извлечён JSON для 3.jpg
+2025-11-03 10:31:25,599 - INFO - Обработка файла: 4.jpg
+2025-11-03 10:31:29,019 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:31:29,020 - INFO - ✅ Успешно извлечён JSON для 4.jpg
+2025-11-03 10:31:29,020 - INFO - Обработка файла: 5.jpg
+2025-11-03 10:31:32,651 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:31:32,653 - INFO - ✅ Успешно извлечён JSON для 5.jpg
+2025-11-03 10:31:32,653 - INFO - Обработка файла: 6.jpg
+2025-11-03 10:31:35,209 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:31:35,210 - INFO - ✅ Успешно извлечён JSON для 6.jpg
+2025-11-03 10:31:35,210 - INFO - Обработка файла: 7.jpg
+2025-11-03 10:31:38,931 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:31:38,933 - INFO - ✅ Успешно извлечён JSON для 7.jpg
+2025-11-03 10:31:38,933 - INFO - Обработка файла: 8.jpg
+2025-11-03 10:31:41,301 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:31:41,303 - INFO - ✅ Успешно извлечён JSON для 8.jpg
+2025-11-03 10:31:41,303 - INFO - Обработка файла: paragon.jpg
+2025-11-03 10:31:42,738 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:31:42,739 - INFO - ✅ Успешно извлечён JSON для paragon.jpg
+2025-11-03 10:31:42,739 - INFO - Обработка файла: paragon1.jpg
+2025-11-03 10:33:40,798 - INFO - Обработка файла: 1.jpg
+2025-11-03 10:33:43,813 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:33:43,815 - INFO - ✅ Успешно извлечён JSON для 1.jpg
+2025-11-03 10:33:43,815 - INFO - Обработка файла: 3.jpg
+2025-11-03 10:33:46,513 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:33:46,515 - INFO - ✅ Успешно извлечён JSON для 3.jpg
+2025-11-03 10:33:46,515 - INFO - Обработка файла: 4.jpg
+2025-11-03 10:33:49,772 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:33:49,774 - INFO - ✅ Успешно извлечён JSON для 4.jpg
+2025-11-03 10:33:49,774 - INFO - Обработка файла: 5.jpg
+2025-11-03 10:35:13,624 - INFO - Обработка файла: 1.jpg
+2025-11-03 10:35:17,056 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:17,058 - INFO - ✅ Успешно извлечён JSON для 1.jpg
+2025-11-03 10:35:17,058 - INFO - Обработка файла: 3.jpg
+2025-11-03 10:35:19,248 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:19,250 - INFO - ✅ Успешно извлечён JSON для 3.jpg
+2025-11-03 10:35:19,250 - INFO - Обработка файла: 4.jpg
+2025-11-03 10:35:22,295 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:22,296 - INFO - ✅ Успешно извлечён JSON для 4.jpg
+2025-11-03 10:35:22,297 - INFO - Обработка файла: 5.jpg
+2025-11-03 10:35:26,017 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:26,018 - INFO - ✅ Успешно извлечён JSON для 5.jpg
+2025-11-03 10:35:26,019 - INFO - Обработка файла: 6.jpg
+2025-11-03 10:35:28,769 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:28,776 - INFO - ✅ Успешно извлечён JSON для 6.jpg
+2025-11-03 10:35:28,776 - INFO - Обработка файла: 7.jpg
+2025-11-03 10:35:33,344 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:33,346 - INFO - ✅ Успешно извлечён JSON для 7.jpg
+2025-11-03 10:35:33,346 - INFO - Обработка файла: 8.jpg
+2025-11-03 10:35:35,776 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:35,783 - INFO - ✅ Успешно извлечён JSON для 8.jpg
+2025-11-03 10:35:35,783 - INFO - Обработка файла: paragon.jpg
+2025-11-03 10:35:37,148 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:37,149 - INFO - ✅ Успешно извлечён JSON для paragon.jpg
+2025-11-03 10:35:37,149 - INFO - Обработка файла: paragon1.jpg
+2025-11-03 10:35:45,177 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:45,178 - INFO - ✅ Успешно извлечён JSON для paragon1.jpg
+2025-11-03 10:35:45,179 - INFO - Обработка файла: paragon2.jpg
+2025-11-03 10:35:46,665 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:35:46,666 - INFO - ✅ Успешно извлечён JSON для paragon2.jpg
+2025-11-03 10:35:46,672 - INFO - ✅ Обработка завершена. Всего файлов: 10
+2025-11-03 10:43:30,784 - INFO - Обработка файла: 1.jpg
+2025-11-03 10:43:33,951 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:33,952 - INFO - ✅ Успешно извлечён JSON для 1.jpg
+2025-11-03 10:43:33,952 - INFO - Обработка файла: 3.jpg
+2025-11-03 10:43:37,222 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:37,223 - INFO - ✅ Успешно извлечён JSON для 3.jpg
+2025-11-03 10:43:37,224 - INFO - Обработка файла: 4.jpg
+2025-11-03 10:43:40,166 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:40,168 - INFO - ✅ Успешно извлечён JSON для 4.jpg
+2025-11-03 10:43:40,169 - INFO - Обработка файла: 5.jpg
+2025-11-03 10:43:44,173 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:44,174 - INFO - ✅ Успешно извлечён JSON для 5.jpg
+2025-11-03 10:43:44,174 - INFO - Обработка файла: 6.jpg
+2025-11-03 10:43:46,591 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:46,592 - INFO - ✅ Успешно извлечён JSON для 6.jpg
+2025-11-03 10:43:46,592 - INFO - Обработка файла: 7.jpg
+2025-11-03 10:43:50,269 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:50,270 - INFO - ✅ Успешно извлечён JSON для 7.jpg
+2025-11-03 10:43:50,270 - INFO - Обработка файла: 8.jpg
+2025-11-03 10:43:52,542 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:52,544 - INFO - ✅ Успешно извлечён JSON для 8.jpg
+2025-11-03 10:43:52,544 - INFO - Обработка файла: paragon.jpg
+2025-11-03 10:43:53,829 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:53,830 - INFO - ✅ Успешно извлечён JSON для paragon.jpg
+2025-11-03 10:43:53,831 - INFO - Обработка файла: paragon1.jpg
+2025-11-03 10:43:55,315 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:55,316 - INFO - ✅ Успешно извлечён JSON для paragon1.jpg
+2025-11-03 10:43:55,316 - INFO - Обработка файла: paragon2.jpg
+2025-11-03 10:43:57,029 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 10:43:57,031 - INFO - ✅ Успешно извлечён JSON для paragon2.jpg
+2025-11-03 10:43:57,040 - INFO - ✅ Обработка завершена. Всего файлов: 10
+2025-11-03 11:09:49,359 - INFO - Обработка файла: 1.jpg
+2025-11-03 11:09:55,544 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:09:55,549 - INFO - ✅ Успешно извлечён JSON для 1.jpg
+2025-11-03 11:09:55,549 - INFO - Обработка файла: 3.jpg
+2025-11-03 11:09:57,968 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:09:57,976 - INFO - ✅ Успешно извлечён JSON для 3.jpg
+2025-11-03 11:09:57,976 - INFO - Обработка файла: 4.jpg
+2025-11-03 11:10:01,442 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:10:01,449 - INFO - ✅ Успешно извлечён JSON для 4.jpg
+2025-11-03 11:10:01,449 - INFO - Обработка файла: 5.jpg
+2025-11-03 11:10:05,808 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:10:05,809 - INFO - ✅ Успешно извлечён JSON для 5.jpg
+2025-11-03 11:10:05,809 - INFO - Обработка файла: 6.jpg
+2025-11-03 11:10:09,065 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:10:09,067 - INFO - ✅ Успешно извлечён JSON для 6.jpg
+2025-11-03 11:10:09,067 - INFO - Обработка файла: 7.jpg
+2025-11-03 11:10:12,280 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:10:12,287 - INFO - ✅ Успешно извлечён JSON для 7.jpg
+2025-11-03 11:10:12,287 - INFO - Обработка файла: 8.jpg
+2025-11-03 11:10:14,838 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:10:14,839 - INFO - ✅ Успешно извлечён JSON для 8.jpg
+2025-11-03 11:10:14,839 - INFO - Обработка файла: paragon.jpg
+2025-11-03 11:10:16,319 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:10:16,320 - INFO - ✅ Успешно извлечён JSON для paragon.jpg
+2025-11-03 11:10:16,320 - INFO - Обработка файла: paragon1.jpg
+2025-11-03 11:10:17,861 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:10:17,863 - INFO - ✅ Успешно извлечён JSON для paragon1.jpg
+2025-11-03 11:10:17,863 - INFO - Обработка файла: paragon2.jpg
+2025-11-03 11:10:19,238 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:10:19,239 - INFO - ✅ Успешно извлечён JSON для paragon2.jpg
+2025-11-03 11:10:19,242 - INFO - ✅ Обработка завершена. Всего файлов: 10
+2025-11-03 11:11:38,600 - INFO - Обработка файла: 1.jpg
+2025-11-03 11:11:41,783 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:11:41,785 - INFO - ✅ Успешно извлечён JSON для 1.jpg
+2025-11-03 11:11:41,785 - INFO - Обработка файла: 3.jpg
+2025-11-03 11:11:44,313 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:11:44,314 - INFO - ✅ Успешно извлечён JSON для 3.jpg
+2025-11-03 11:11:44,314 - INFO - Обработка файла: 4.jpg
+2025-11-03 11:11:47,579 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:11:47,586 - INFO - ✅ Успешно извлечён JSON для 4.jpg
+2025-11-03 11:11:47,586 - INFO - Обработка файла: 5.jpg
+2025-11-03 11:11:51,629 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:11:51,631 - INFO - ✅ Успешно извлечён JSON для 5.jpg
+2025-11-03 11:11:51,631 - INFO - Обработка файла: 6.jpg
+2025-11-03 11:11:54,393 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:11:54,394 - INFO - ✅ Успешно извлечён JSON для 6.jpg
+2025-11-03 11:11:54,394 - INFO - Обработка файла: 7.jpg
+2025-11-03 11:11:56,672 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:11:56,673 - INFO - ✅ Успешно извлечён JSON для 7.jpg
+2025-11-03 11:11:56,674 - INFO - ✅ Обработка завершена. Всего файлов: 6
+2025-11-03 11:16:41,102 - INFO - Обработка файла: 1.jpg
+2025-11-03 11:16:48,117 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:16:48,119 - INFO - ✅ Успешно извлечён JSON для 1.jpg
+2025-11-03 11:16:48,119 - INFO - Обработка файла: 3.jpg
+2025-11-03 11:16:51,599 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:16:51,601 - INFO - ✅ Успешно извлечён JSON для 3.jpg
+2025-11-03 11:16:51,601 - INFO - Обработка файла: 4.jpg
+2025-11-03 11:16:55,327 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:16:55,329 - INFO - ✅ Успешно извлечён JSON для 4.jpg
+2025-11-03 11:16:55,329 - INFO - Обработка файла: 5.jpg
+2025-11-03 11:16:59,241 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:16:59,243 - INFO - ✅ Успешно извлечён JSON для 5.jpg
+2025-11-03 11:16:59,243 - INFO - Обработка файла: 6.jpg
+2025-11-03 11:17:01,759 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:17:01,760 - INFO - ✅ Успешно извлечён JSON для 6.jpg
+2025-11-03 11:17:01,761 - INFO - Обработка файла: 7.jpg
+2025-11-03 11:17:06,934 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 11:17:06,935 - INFO - ✅ Успешно извлечён JSON для 7.jpg
+2025-11-03 11:17:06,938 - INFO - ✅ Обработка завершена. Всего файлов: 6
+2025-11-03 13:52:05,022 - INFO - Przetwarzanie pliku: 1.jpg
+2025-11-03 13:52:08,727 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 13:52:08,740 - INFO - ✅ Udało się odczytać JSON z 1.jpg
+2025-11-03 13:52:08,741 - INFO - Przetwarzanie pliku: 3.jpg
+2025-11-03 13:52:11,413 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 13:52:11,415 - INFO - ✅ Udało się odczytać JSON z 3.jpg
+2025-11-03 13:52:11,415 - INFO - Przetwarzanie pliku: 4.jpg
+2025-11-03 13:52:15,420 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 13:52:15,422 - INFO - ✅ Udało się odczytać JSON z 4.jpg
+2025-11-03 13:52:15,422 - INFO - Przetwarzanie pliku: 5.jpg
+2025-11-03 13:52:20,077 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 13:52:20,085 - INFO - ✅ Udało się odczytać JSON z 5.jpg
+2025-11-03 13:52:20,085 - INFO - Przetwarzanie pliku: 6.jpg
+2025-11-03 13:52:22,342 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 13:52:22,344 - INFO - ✅ Udało się odczytać JSON z 6.jpg
+2025-11-03 13:52:22,345 - INFO - Przetwarzanie pliku: 7.jpg
+2025-11-03 13:52:26,158 - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-03 13:52:26,166 - INFO - ✅ Udało się odczytać JSON z 7.jpg
+2025-11-03 13:52:26,172 - INFO - ✅ Przetwarzanie zakończone. Łącznie plików: 6
+2025-11-03 13:52:56,570 - INFO - ✅ Przetwarzanie zakończone. Łącznie plików: 6

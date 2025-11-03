@@ -1,0 +1,188 @@
+{
+    "1.jpg": {
+        "numer_faktury": "20520206200021.83",
+        "data_wystawienia": "2025-10-27",
+        "sprzedawca": "MIEJSCOWI SKŁADNIK",
+        "nabywca": "NIEPODANA",
+        "pozycje": [
+            {
+                "nazwa": "Paragon Fiskalny",
+                "ilosc": 1,
+                "cena_jedn": 0.0,
+                "wartosc": 0.0
+            },
+            {
+                "nazwa": "Suma PLN",
+                "ilosc": 1,
+                "cena_jedn": 64.17,
+                "wartosc": 64.17
+            }
+        ],
+        "suma_netto": 64.17,
+        "vat": 0,
+        "suma_brutto": 64.17,
+        "plik": "1.jpg"
+    },
+    "3.jpg": {
+        "numer_faktury": "WA89692",
+        "data_wystawienia": "2025-10-07",
+        "sprzedawca": "MIASTO ST.WARSZAWSKI Zarzad Drogi Miejskie ul. Chmielna 120 00-801 Warszawa",
+        "nabywca": "",
+        "pozycje": [
+            {
+                "nazwa": "Płatność",
+                "ilosc": 1,
+                "cena_jedn": 5.4,
+                "wartosc": 5.4
+            }
+        ],
+        "suma_netto": 5.4,
+        "vat": 0,
+        "suma_brutto": 5.4,
+        "plik": "3.jpg"
+    },
+    "4.jpg": {
+        "numer_faktury": "0022609",
+        "data_wystawienia": "2025-11-01",
+        "sprzedawca": "CHESEBURGERIA",
+        "nabywca": "NIEPOSAŁA",
+        "pozycje": [
+            {
+                "nazwa": "PARAGON I TAKI",
+                "ilosc": 1,
+                "cena_jedn": 32.99,
+                "wartosc": 32.99
+            },
+            {
+                "nazwa": "Bloody Bite Beef",
+                "ilosc": 1,
+                "cena_jedn": 32.99,
+                "wartosc": 32.99
+            },
+            {
+                "nazwa": "Wielka Dolewka",
+                "ilosc": 1,
+                "cena_jedn": 5.0,
+                "wartosc": 5.0
+            },
+            {
+                "nazwa": "Jednorazowy kubek",
+                "ilosc": 1,
+                "cena_jedn": 0.25,
+                "wartosc": 0.25
+            },
+            {
+                "nazwa": "Średnie frugi",
+                "ilosc": 1,
+                "cena_jedn": 6.0,
+                "wartosc": 6.0
+            }
+        ],
+        "suma_netto": 77.23,
+        "vat": 0,
+        "suma_brutto": 77.23,
+        "plik": "4.jpg"
+    },
+    "5.jpg": {
+        "numer_faktury": "981554",
+        "data_wystawienia": "2025-09-30",
+        "sprzedawca": "E. Leclerc Ursynów",
+        "nabywca": "PARAGON FISKALNY",
+        "pozycje": [
+            {
+                "nazwa": "ZŁYTE MÓW W/6 1.5 X 5800541000000",
+                "ilosc": 2,
+                "cena_jedn": 2.99,
+                "wartosc": 5.98
+            },
+            {
+                "nazwa": "DEPSI MAX 050 X 5800497024496",
+                "ilosc": 1,
+                "cena_jedn": 4.99,
+                "wartosc": 4.99
+            },
+            {
+                "nazwa": "MLE JAC NIE 15% 1.3 X 580087002125",
+                "ilosc": 1,
+                "cena_jedn": 4.99,
+                "wartosc": 4.99
+            },
+            {
+                "nazwa": "ABRUJA ZAKUP PUBST X 5802627036769",
+                "ilosc": 1,
+                "cena_jedn": 1.29,
+                "wartosc": 1.29
+            }
+        ],
+        "suma_netto": 34.72,
+        "vat": 0,
+        "suma_brutto": 34.72,
+        "plik": "5.jpg"
+    },
+    "6.jpg": {
+        "numer_faktury": "13763",
+        "data_wystawienia": "27.10.2023",
+        "sprzedawca": "E LECLERC",
+        "nabywca": "PARAGON FISKALNY",
+        "pozycje": [
+            {
+                "nazwa": "LI 0 K 10000",
+                "ilosc": 1,
+                "cena_jedn": 137.63,
+                "wartosc": 137.63
+            }
+        ],
+        "suma_netto": 137.63,
+        "vat": 0,
+        "suma_brutto": 137.63,
+        "plik": "6.jpg"
+    },
+    "7.jpg": {
+        "numer_faktury": "067 717",
+        "data_wystawienia": "2025-10-27",
+        "sprzedawca": "CARREFOUR MARKET Warszawa",
+        "nabywca": "NIEFISKALNY",
+        "pozycje": [
+            {
+                "nazwa": "PARAGON FISKALNY",
+                "ilosc": 1,
+                "cena_jedn": 84.97,
+                "wartosc": 84.97
+            },
+            {
+                "nazwa": "A. HERB. ALBERT S. B",
+                "ilosc": 1,
+                "cena_jedn": 17.09,
+                "wartosc": 17.09
+            },
+            {
+                "nazwa": "A. W. KAGÓŁ MUJASTYR",
+                "ilosc": 1,
+                "cena_jedn": 31.99,
+                "wartosc": 31.99
+            },
+            {
+                "nazwa": "SPŹRZED. OPOD. PTU A",
+                "ilosc": 1,
+                "cena_jedn": 67.88,
+                "wartosc": 67.88
+            },
+            {
+                "nazwa": "SPŹRZED. OPOD. PTU C",
+                "ilosc": 1,
+                "cena_jedn": 12.69,
+                "wartosc": 12.69
+            },
+            {
+                "nazwa": "Podatek PTU",
+                "ilosc": 1,
+                "cena_jedn": 17.09,
+                "wartosc": 17.09
+            }
+        ],
+        "suma_netto": 158.66,
+        "vat": 23.0,
+        "suma_brutto": 84.97,
+        "plik": "7.jpg"
+    }
+}
